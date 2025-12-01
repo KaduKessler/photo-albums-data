@@ -4,7 +4,7 @@ const photos = [];
 let id = 1;
 
 // Configurações
-const MAX_ALBUMS = 100;
+const MAX_ALBUMS = 15;
 const PHOTOS_PER_ALBUM = 3;
 
 for (let albumId = 1; albumId <= MAX_ALBUMS; albumId++) {
