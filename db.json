@@ -1,0 +1,67 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "title": "Litoral ao entardecer",
+      "thumbnailUrl": "https://picsum.photos/id/101/150/150",
+      "url": "https://picsum.photos/id/101/800/800"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "title": "Montanhas com neblina",
+      "thumbnailUrl": "https://picsum.photos/id/102/150/150",
+      "url": "https://picsum.photos/id/102/800/800"
+    },
+    {
+      "id": 3,
+      "albumId": 1,
+      "title": "Praia calma ao amanhecer",
+      "thumbnailUrl": "https://picsum.photos/id/103/150/150",
+      "url": "https://picsum.photos/id/103/800/800"
+    },
+    {
+      "id": 4,
+      "albumId": 2,
+      "title": "Floresta iluminada",
+      "thumbnailUrl": "https://picsum.photos/id/104/150/150",
+      "url": "https://picsum.photos/id/104/800/800"
+    },
+    {
+      "id": 5,
+      "albumId": 2,
+      "title": "Rio entre montanhas",
+      "thumbnailUrl": "https://picsum.photos/id/105/150/150",
+      "url": "https://picsum.photos/id/105/800/800"
+    },
+    {
+      "id": 6,
+      "albumId": 2,
+      "title": "Campo arborizado",
+      "thumbnailUrl": "https://picsum.photos/id/106/150/150",
+      "url": "https://picsum.photos/id/106/800/800"
+    },
+    {
+      "id": 7,
+      "albumId": 3,
+      "title": "Céu estrelado ao ar livre",
+      "thumbnailUrl": "https://picsum.photos/id/107/150/150",
+      "url": "https://picsum.photos/id/107/800/800"
+    },
+    {
+      "id": 8,
+      "albumId": 3,
+      "title": "Trilha na montanha",
+      "thumbnailUrl": "https://picsum.photos/id/108/150/150",
+      "url": "https://picsum.photos/id/108/800/800"
+    },
+    {
+      "id": 9,
+      "albumId": 3,
+      "title": "Horizonte sobre o lago",
+      "thumbnailUrl": "https://picsum.photos/id/109/150/150",
+      "url": "https://picsum.photos/id/109/800/800"
+    }
+  ]
+}
