@@ -3,7 +3,7 @@ import { writeFileSync } from 'fs';
 const photos = [];
 let id = 1;
 
-// Configurações
+// Configurações (My JSON Server - Max de 30 itens)
 const MAX_ALBUMS = 10;
 const PHOTOS_PER_ALBUM = 3;
 
