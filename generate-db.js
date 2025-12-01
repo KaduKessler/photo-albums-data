@@ -13,8 +13,8 @@ for (let albumId = 1; albumId <= MAX_ALBUMS; albumId++) {
       id,
       albumId,
       title: `Foto ${photoNum} do Álbum ${albumId}`,
-      thumbnailUrl: `https://placehold.co/150x150?text=A${albumId}-F${photoNum}`,
-      url: `https://placehold.co/800x800?text=A${albumId}-F${photoNum}`,
+      thumbnailUrl: `https://placehold.co/150x150/png?text=A${albumId}-F${photoNum}`,
+      url: `https://placehold.co/800x800/png?text=A${albumId}-F${photoNum}`,
     });
     id++;
   }
